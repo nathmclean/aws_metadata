@@ -1,0 +1,39 @@
+latest:
+  metadata:
+    ami-id: 'ami-f4cc1de2'
+    ami-launch-index: '0'
+    ami-manifest-path: '(unknown)'
+    block-device-mapping:
+      ami:
+        - '/dev/sda1'
+    hostname: 'ip-172-31-73-253.ec2.internal'
+    instance-action: 'none'
+    instance-id: 'i-01bafaabbe6d61000'
+    instance-type: 't2.micro'
+    local-hostname: 'ip-172-31-73-253.ec2.internal'
+    local-ipv4: '172.31.73.253'
+    mac: '02:cc:55:87:ec:1a'
+    metrics:
+      vhostmd: '<?xml version="1.0" encoding="UTF-8"?>'
+    network:
+      interfaces:
+        macs:
+          - '02:cc:55:87:ec:1a':
+            device-number: '0'
+            interface-id: 'eni-62187376'
+            ipv4-associations:
+              - '34.239.251.47'
+              local-hostname: 'ip-172-31-73-253.ec2.internal'
+              local-ipv4s: 172.31.73.253
+              mac: '02:cc:55:87:ec:1a'
+              owner-id: 841692805411
+              public-hostname: 'ec2-34-239-251-47.compute-1.amazonaws.com'
+              public-ipv4s:
+              - '34.239.251.47'
+              security-group-ids: 'sg-30e6bc4f'
+              security-groups: 'launch-wizard-1'
+              subnet-id: 'subnet-0e387d6b'
+              subnet-ipv4-cidr-block: '172.31.64.0/20'
+              vpc-id: 'vpc-039b2866'
+              vpc-ipv4-cidr-block: '172.31.0.0/16'
+              vpc-ipv4-cidr-blocks: '172.31.0.0/16'
